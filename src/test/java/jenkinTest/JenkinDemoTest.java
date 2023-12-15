@@ -10,6 +10,7 @@ public class JenkinDemoTest {
 		System.out.println("Testing Jenkins 2nd Project");
 		//gitbash 1st pull
 		//gitbash 2nd push
+		//gitbash 2nd pull
 	}
 
 }
